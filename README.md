@@ -92,7 +92,7 @@ socket/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/arqam66/hackthon_project-.git
 cd buyno
 ```
 
